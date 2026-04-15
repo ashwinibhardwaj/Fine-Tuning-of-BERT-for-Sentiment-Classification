@@ -42,7 +42,7 @@ This project demonstrates fine-tuning a **BERT model** for binary sentiment clas
 
 ## 📈 Confusion Matrix
 
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](results/bert_finetuning_results.png)
 
 ---
 
