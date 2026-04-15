@@ -56,15 +56,6 @@ This project demonstrates fine-tuning a **BERT model** for binary sentiment clas
 
 ---
 
-## 🚀 Future Improvements
-
-- Add interactive demo (Streamlit / Gradio)  
-- Perform hyperparameter tuning  
-- Extend to multi-class sentiment classification  
-- Deploy as an API  
-
----
-
 ## 🧠 Learnings
 
 - End-to-end Transformer fine-tuning workflow  
